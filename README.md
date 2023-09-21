@@ -1,0 +1,2 @@
+# CppFuncHomework
+для дз
